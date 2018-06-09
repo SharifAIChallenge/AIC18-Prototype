@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a25b848a0e668754dbd6ed51ca018d4e
+timeCreated: 1513172438
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GrassPrefab: {fileID: 194376, guid: bbe8d1df11c134e4bbb221f56a0b925a, type: 2}
+  - RoadPrefab: {fileID: 194618, guid: 9564506a38a9bd842bd864aea1206861, type: 2}
+  executionOrder: 50
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
